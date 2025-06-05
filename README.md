@@ -1,1 +1,3 @@
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgyNzMyLCJuYW1lIjoiaXJhIiwiZW1haWwiOiJhemlzLnNwdDA0NUBnbWFpbC5jb20iLCJyZWZlcnJlcl9pZCI6NDY4MTAzNTcsImV4cCI6MTc3MTExOTkzOH0._81uZpGpikdLhUMEmbGYmQ9Pa6O1ud0J8KOyLm-PvH4
+
+https://github.com/dante4rt/nodepay-airdrop-bot
